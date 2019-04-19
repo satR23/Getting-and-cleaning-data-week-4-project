@@ -26,7 +26,7 @@ names to the large dataset columns (variables).
 
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each 
 subject Source code "run_analysis.R" calculates the average for all measurement columns grouped by variables Activity and Subject and
-then writes the output to a local text file named "tidydata.txt""
+then writes the output to a local text file named "tidy.txt""
 
 Tidy data set description
 
