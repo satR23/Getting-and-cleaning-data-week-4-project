@@ -8,6 +8,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 A full description is available at the site where the data was obtained:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+########################################################################################################################################
+
 This repo was created to finish the assignment for week 4 of Getting and Cleaning Data Coursera course.
 
 First, download the R source code into your R working directory.
@@ -37,6 +39,8 @@ Uses descriptive activity names to name the activities in the data set Convert a
 Appropriately labels the data set with descriptive variable names. Give the selected descriptive names to variable columns
 
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+
+#####################################################################################################################################
 
 Data Set Information:
 
