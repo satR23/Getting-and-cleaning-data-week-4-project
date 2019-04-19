@@ -10,8 +10,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 This repo was created to finish the assignment for week 4 of Getting and Cleaning Data Coursera course.
 
-First, download and unzip the data file into your R working directory.
-Second, download the R source code into your R working directory.
+First, download the R source code into your R working directory.
 Finally, execute R source code to generate tidy data file.
 
 Data description
@@ -24,6 +23,8 @@ New dataset
 The new generated dataset contained variables calculated based on the mean and standard deviation. Each row of the dataset is an average of each activity type for all subjects.
 
 The code was written based on the requirement
+
+Download the dataset and unzip the dataset to working directory from the source data link provided.
 
 Read training and test dataset into R environment. Read variable names into R envrionment. Read subject index into R environment.
 
